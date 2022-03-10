@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basics of unsupervised learning. 
 - 💞️ I’m looking to collaborate on anything which can provide me experiance or expand my horizons.
 - 📫 How to reach me use q1.cypu2@slmail.me to contact me anytime.
-- Also I am hardcore linux user and open source supporter. VIVA LA OPENSOURCE! I am currently using Pop!_OS(based on ubuntu) but I am planning to use Arch linux. 
+- Also I am hardcore linux user and open source supporter. VIVA LA OPENSOURCE! I am currently using Pop!_OS(based on ubuntu) but I am an Arch linux fanboy. 
 
 <!---
 CaffineAddic/CaffineAddic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
