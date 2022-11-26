@@ -5,6 +5,8 @@
 - 📫 How to reach me use q1.cypu2@slmail.me to contact me anytime.
 - Also I am hardcore linux user and open source supporter. VIVA LA OPENSOURCE! I am a hardcore Fedora fan, I started with Manjaro and used Pop_OS! for an year but I found solace in fedora only.
 - I am currently developing few computer vision algorithms from scratch if you like or find any faults please open up an issue as I have developed these solely for mathamatical demonstration.
+- There are a few of my projects code here if you are intrested in them please check them out, I would love to get some input on them. 
+- Cheers :}
 
 <!---
 CaffineAddic/CaffineAddic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
